@@ -15,6 +15,10 @@ It takes a new lead, validates the data, sends the lead details to an AI model, 
 7. Sends team alerts for high-priority leads
 8. Includes error logging and manual review path
 
+## Workflow Screenshot
+<img width="587" height="134" alt="n8n workflow" src="https://github.com/user-attachments/assets/ccf88285-a0a7-40a2-ba09-ce315359d9f7" />
+
+
 ## Tools Used
 
 - n8n
