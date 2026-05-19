@@ -1,6 +1,3 @@
-# n8n-ai-lead-qualification-workflow
-AI lead qualification workflow using n8n, OpenAI/Claude, CRM routing, Google Sheets logging and team alerts.
-
 # n8n AI Lead Qualification Workflow
 
 This project is an AI-powered lead qualification and routing workflow built with n8n.
