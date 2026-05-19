@@ -1,0 +1,11 @@
+{
+  "lead_score": 88,
+  "lead_status": "Hot Lead",
+  "priority": "High",
+  "summary": "The lead has urgent HVAC repair intent and complete contact details.",
+  "score_reason": "Urgent need, clear service request, valid phone and email.",
+  "next_action": "Send booking link and alert sales team",
+  "crm_stage": "Hot Lead - Needs Fast Follow Up",
+  "should_alert_team": true,
+  "should_send_booking_follow_up": true
+}
